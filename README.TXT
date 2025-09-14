@@ -41,3 +41,22 @@ The second constructor allows you to create a ClockDisplay object and initialize
 
 Question 27:
 Both constructors initialize the clock, but the second one gives you control over the starting time.
+
+Question 28:
+
+p1.print("report.pdf", true);         //double sided
+p1.print("invoice.docx", false);      //single sided
+
+int status1 = p1.getStatus(0);
+int status2 = p1.getStatus(123);    // random number, 123 milliseconds
+
+Question 29:
+The objects created are two square objects (wall and window), one triangle (the roof) and one circle (the sun!).
+
+Question 30:
+makeVisible()
+moveVertical(-20);
+moveHorizontal(-20);
+changeSize(int newHeight, int newWidth)
+
+Question 31: 
