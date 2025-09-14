@@ -60,3 +60,20 @@ moveHorizontal(-20);
 changeSize(int newHeight, int newWidth)
 
 Question 31: 
+No, the picture class doesn't contain internal method calls. It only has one method like draw(). This method does not call any other methods of Picture.
+
+Question 32: 
+8 % 3 evaluates to 2.
+The remainder when 8 is divided by 3 is 2.
+As shown, (8-3) = 6
+          (8-6) = 2
+
+Question 33:
+In the code pad, (8 % 3) returns 2, as expected. When using negative numbers, the remainder has the same sign as the dividend (the left operand). 
+From what I see, the divisor’s sign doesn’t change the remainder’s sign.
+
+Question 34:
+Possible results are {0, 1, 2, 3, 4, -1, -2, -3, -4}.
+
+
+
