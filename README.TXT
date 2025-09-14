@@ -31,3 +31,13 @@ Question 23:
 We can use the method "setTime(1, 0)"
 
 Question 24:
+I would write "NumberDisplay digit = new NumberDisplay(10);"
+
+Question 25:
+Rectangle window = new Rectangle(100, 50);
+
+Question 26:
+The second constructor allows you to create a ClockDisplay object and initialize it to a specific time, instead of always starting at 00:00.
+
+Question 27:
+Both constructors initialize the clock, but the second one gives you control over the starting time.
